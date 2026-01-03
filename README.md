@@ -10,7 +10,7 @@
 💡 我们的解决方案是使用Cloudflare Workers作为中间层，它替你安全地处理身份验证，让你可以安全地访问私有文件。
 
 > [!TIP]
-> **还有 [EdgeOne Pages 版本](https://github.com/cmliu/CF-Workers-Raw/tree/EdgeOne)**
+> **还有 [EdgeOne Pages 版本](https://github.com/bohi123/CF-Workers-Raw/tree/EdgeOne)**
 
 ## 📖 如何使用？ [📺 视频教程](https://www.youtube.com/watch?v=T-bK5o96lqI)
 
