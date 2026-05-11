@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "src": "/api/.*",
+      "edge": {
+        "cache": false
+      }
+    },
+    {
+      "src": "/.*",
+      "edge": {
+        "cache": 0
+      }
+    }
+  ]
+}
