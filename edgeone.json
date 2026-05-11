@@ -1,10 +1,11 @@
 {
-  "routes": [
+  "headers": [],
+  "redirects": [],
+  "rewrites": [],
+  "caches": [
     {
-      "src": "/.*",
-      "edge": {
-        "cache": 0
-      }
+      "source": "/*",
+      "cacheTtl": 0
     }
   ]
 }
